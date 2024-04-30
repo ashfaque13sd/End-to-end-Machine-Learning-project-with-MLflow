@@ -45,4 +45,4 @@ class ConfigurationManager:
         )
 
         return data_validation_config
-    n
+    
