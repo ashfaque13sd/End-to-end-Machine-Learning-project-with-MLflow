@@ -1,11 +1,11 @@
 # End-to-end-Machine-Learning-project-with-MLflow
-
-update config.yaml
-update schema.yaml
-update params.yaml
-update the entity
-update the configuratiion manager in src config
-update the components
-update the pipeline
-update the main.py
-update the app.py
+## Workflows
+#### 1.Update config.yaml
+#### 2.Update schema.yaml
+#### 3.Update params.yaml
+#### 4.Update the entity
+#### 5.Update the configuratiion manager in src config
+#### 6.Update the components
+#### 7.Update the pipeline
+#### 8.Update the main.py
+#### 9.Update the app.py
